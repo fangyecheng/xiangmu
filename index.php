@@ -1,5 +1,6 @@
 <?php
 
-   echo 'wangzeyushigewangbadan',
+   echo 'wangzeyushigewangbadan';
+   echo 'wangzeyudawangba';
 
 ?>
